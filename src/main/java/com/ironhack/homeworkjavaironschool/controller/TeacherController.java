@@ -1,7 +1,7 @@
-package com.ironhack.homeworkjavaironbattle.controller;
+package com.ironhack.homeworkjavaironschool.controller;
 
-import com.ironhack.homeworkjavaironbattle.model.Teacher;
-import com.ironhack.homeworkjavaironbattle.service.TeacherService;
+import com.ironhack.homeworkjavaironschool.model.Teacher;
+import com.ironhack.homeworkjavaironschool.service.TeacherService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
